@@ -1,6 +1,6 @@
 # Customer Churn Prediction using H2O AutoML and AI Agent
 =====================================
-
+Inspired from ai-data-science-team.
 ## Introduction
 ---------------
 
