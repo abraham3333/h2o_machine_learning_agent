@@ -14,7 +14,8 @@ The project utilizes an AI-powered ML Agent that automates the machine learning 
 - H2O AutoML Framework
 
 ### Agent Workflow
-![H2O ML Agent Workflow](workflow_diagram.png)
+![image](https://github.com/user-attachments/assets/80ae9ece-d23a-42af-bcf1-9e3741fcee59)
+
 
 The ML Agent follows these automated steps:
 1. **Start**: Initialize the agent with model parameters and logging settings
